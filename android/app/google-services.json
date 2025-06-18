@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458532404127",
+    "project_id": "refermate-780ce",
+    "storage_bucket": "refermate-780ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458532404127:android:2bb1c3b8043dd9cc055baa",
+        "android_client_info": {
+          "package_name": "com.example.refermate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL3jtSLtCJxQbFyosjffEKWlQd5eC0AwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
